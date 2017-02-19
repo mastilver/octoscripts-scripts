@@ -1,6 +1,6 @@
 {
   "name": "octoscripts-merge-greenkeeper",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Merge greenkeeper pull-requests when they pass on Octoscripts",
   "license": "MIT",
   "repository": "mastilver/octoscripts-scripts/packages/octoscripts-merge-greenkeeper",

@@ -1,6 +1,6 @@
 {
   "name": "octoscripts-tag-merge-conflits",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Tags GitHub pull-requests when there is a merge conflict on Octoscripts",
   "license": "MIT",
   "repository": "mastilver/octoscripts-scripts/packages/octoscripts-tag-merge-conflits",

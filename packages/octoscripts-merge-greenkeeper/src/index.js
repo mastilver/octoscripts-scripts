@@ -1,6 +1,6 @@
 'use strict';
 module.exports = async ({isGithubWebhook, eventType, event, repository}) => {
-    if (!isGithubWebhook && eventType !== 'status') {
+    if (!isGithubWebhook || eventType !== 'status') {
         return;
     }
 

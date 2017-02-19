@@ -1,6 +1,6 @@
 {
   "name": "octoscripts-merge-greenkeeper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Merge greenkeeper pull-requests when they pass on Octoscripts",
   "license": "MIT",
   "repository": "mastilver/octoscripts-scripts/packages/octoscripts-merge-greenkeeper",
@@ -13,7 +13,9 @@
   "engines": {
     "node": ">=4"
   },
-  "scripts": {},
+  "scripts": {
+    "prepublish": "../../node_modules/.bin/babel src --out-dir lib"
+  },
   "files": [
     "lib"
   ],

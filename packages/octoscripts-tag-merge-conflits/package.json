@@ -1,6 +1,6 @@
 {
   "name": "octoscripts-tag-merge-conflits",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tags GitHub pull-requests when there is a merge conflict on Octoscripts",
   "license": "MIT",
   "repository": "mastilver/octoscripts-scripts/packages/octoscripts-tag-merge-conflits",
@@ -13,7 +13,9 @@
   "engines": {
     "node": ">=4"
   },
-  "scripts": {},
+  "scripts": {
+    "prepublish": "../../node_modules/.bin/babel src --out-dir lib"
+  },
   "files": [
     "lib"
   ],

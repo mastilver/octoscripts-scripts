@@ -1,5 +1,7 @@
 # octoscripts-scripts [![Build Status](https://travis-ci.org/mastilver/octoscripts-scripts.svg?branch=master)](https://travis-ci.org/mastilver/octoscripts-scripts)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mastilver/octoscripts-scripts.svg)](https://greenkeeper.io/)
+
 > Scripts run by [Octoscripts](https://octoscripts.com)
 
 

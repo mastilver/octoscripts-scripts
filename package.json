@@ -15,7 +15,8 @@
   "scripts": {
     "test": "xo",
     "build": "lerna exec -- babel src --out-dir lib",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "publish": "lerna publish"
   },
   "keywords": [
     ""

@@ -1,0 +1,28 @@
+{
+  "name": "octoscripts-tag-merge-conflits",
+  "version": "0.0.0",
+  "description": "Tags GitHub pull-requests when there is a merge conflict on Octoscripts",
+  "license": "MIT",
+  "repository": "mastilver/octoscripts-scripts/packages/octoscripts-tag-merge-conflits",
+  "main": "lib/index.js",
+  "author": {
+    "name": "Thomas Sileghem",
+    "email": "th.sileghem@gmail.com",
+    "url": "mastilver.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {},
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "octoscripts"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0"
+  },
+  "xo": false
+}

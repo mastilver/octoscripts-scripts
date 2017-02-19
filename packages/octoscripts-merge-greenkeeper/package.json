@@ -1,0 +1,28 @@
+{
+  "name": "octoscripts-merge-greenkeeper",
+  "version": "0.0.0",
+  "description": "Merge greenkeeper pull-requests when they pass on Octoscripts",
+  "license": "MIT",
+  "repository": "mastilver/octoscripts-scripts/packages/octoscripts-merge-greenkeeper",
+  "main": "lib/index.js",
+  "author": {
+    "name": "Thomas Sileghem",
+    "email": "th.sileghem@gmail.com",
+    "url": "mastilver.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {},
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "octoscripts"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0"
+  },
+  "xo": false
+}

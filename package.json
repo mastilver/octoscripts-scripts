@@ -28,7 +28,7 @@
     "babel-cli": "^6.23.0",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-latest": "^6.22.0",
-    "lerna": "2.0.0-beta.30",
+    "lerna": "2.0.0-beta.37",
     "xo": "^0.17.1"
   },
   "babel": {

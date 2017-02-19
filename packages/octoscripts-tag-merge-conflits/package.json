@@ -20,7 +20,9 @@
   "keywords": [
     "octoscripts"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "babel-runtime": "^6.23.0"
+  },
   "devDependencies": {
     "ava": "^0.17.0"
   },

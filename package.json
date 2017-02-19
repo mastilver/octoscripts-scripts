@@ -21,9 +21,7 @@
   "keywords": [
     ""
   ],
-  "dependencies": {
-    "babel-runtime": "^6.23.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "ava": "^0.17.0",
     "babel-cli": "^6.23.0",
